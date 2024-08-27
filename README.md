@@ -11,3 +11,6 @@ _italic_\
 - bullet point
   * sub-point
     + sub-sub heading
+1. One
+2. two
+3. three
