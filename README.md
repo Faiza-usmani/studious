@@ -1,4 +1,5 @@
-# studious
-## my clone repository
-**bold**
-_italic_
+# Introduction to github
+**bold**\
+_italic_\
+***This text is both bold and italics***
+~~OOPS I made an error~~
